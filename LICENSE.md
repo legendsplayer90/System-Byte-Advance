@@ -1,4 +1,4 @@
-# Licencia Personalizada — System-Byte Advance
+# Licencia Personalizada — Expe-Creative/License
 
 Este proyecto fue creado por **Legends_player90**, como espacio de aprendizaje, exploración y expresión técnica sobre sistemas operativos y punteros en C.
 
