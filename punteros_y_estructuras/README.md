@@ -1,26 +1,25 @@
-# Punteros y Estructuras — Módulo de Aprendizaje en C 🧵💻
+# Punteros y Estructuras — Prácticas Personales en C 🧵💽
+
+## 📝 Sobre este módulo
+
+Este directorio contiene **mis prácticas personales** de programación en C, enfocadas en el aprendizaje progresivo de **punteros** y **estructuras (`structs`)**.  
+Aquí guardo mis experimentos, errores, descubrimientos y avances mientras desarrollo habilidades clave para sistemas operativos.
 
 ## 🎯 Objetivo
 
-Este módulo tiene como propósito **aprender y practicar todo sobre punteros y estructuras (`structs`) en lenguaje C**, desde los fundamentos básicos hasta los conceptos más avanzados.  
-Aquí se recopilan ejemplos prácticos, reflexiones personales, errores comunes y progresos técnicos como parte del proyecto principal **System-Byte Advance**.
+Entender cómo funcionan los punteros — desde lo básico hasta lo avanzado — y cómo se integran con estructuras para modelar datos, acceder a memoria, y construir piezas de bajo nivel.
 
-## 📁 Contenido
+## 📁 Qué hay aquí
 
-- Ejercicios comentados y didácticos
-- Bitácora de errores y soluciones
-- Documentación técnica y filosófica sobre punteros
-- Avances que pueden integrarse a futuras funciones del kernel
+- Archivos `.c` con ejemplos comentados
+- Bitácoras con reflexiones y problemas solucionados
+- Material de referencia para mi futuro kernel
 
-## 🧠 Enfoque
+## ⚠️ Nota
 
-Cada archivo en este módulo está pensado como una pieza del rompecabezas que forma tu conocimiento sobre cómo se gestiona la memoria, cómo se modelan estructuras complejas, y cómo estos conceptos se aplican directamente al desarrollo de sistemas operativos.
-
-## ⚙️ Formato
-
-Todos los archivos de este módulo están escritos en lenguaje **C** (`.c`) y están acompañados por documentación en texto o Markdown para facilitar su comprensión.
+Este contenido está enfocado en mi **proceso personal de aprendizaje**. Puede contener errores o ideas en evolución, y no pretende ser un curso formal.
 
 ---
 
-> _“Aprender punteros es como aprender a hablar el idioma de la memoria — y este espacio es donde me vuelvo fluido.”_  
-> — Legends_player90, creador de System-Byte Advance
+> “Aquí experimento con punteros hasta que sueñen conmigo.”  
+> — Diego, aprendiz de bajo nivel en busca de su propio kernel 😄
