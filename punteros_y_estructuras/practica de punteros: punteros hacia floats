@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(){
+
+char letra = 'A'; //creamos variable char "letra" que contiene "A";
+char *puntero = &letra; // creamos puntero y le decimos al puntero que apunte hacia la dirrecion de memoria de la variable char letra;
+
+printf("valor: %c\n", *puntero); //imprimimos el valor de letra desde *puntero
+printf("dirrecion: %p\n", (void*)puntero); //imprimimos la dirrecion de  memoria de char letra;
+
+//manipulacion
+*puntero = 'B'; //le decimos que *puntero contiene la letra "B"
+printf("nuevo valor: %c\n", letra); //imprimimos de nuevo el valor de char letra, con el nuevo valor del puntero;
+
+return 0; //terminamos programa con salida 0
+}
